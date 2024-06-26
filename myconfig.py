@@ -299,7 +299,7 @@
 # GYM_CONF["racer_name"] = "Your Name"
 # GYM_CONF["country"] = "Place"
 # GYM_CONF["bio"] = "I race robots."
-# 
+#
 # SIM_HOST = "127.0.0.1"              # when racing on virtual-race-league use host "trainmydonkey.com"
 # SIM_ARTIFICIAL_LATENCY = 0          # this is the millisecond latency in controls. Can use useful in emulating the delay when useing a remote server. values of 100 to 400 probably reasonable.
 # 
